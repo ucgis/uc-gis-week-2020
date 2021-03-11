@@ -1,6 +1,6 @@
 # UC GIS Week 2020
 
-![Hero image](https://github.com/ucgis/images/uc-gis-week.jpg)
+![Hero image](./images/uc-gis-week.jpg)
 
 ## Change log
 - [ucgis.github.io/uc-gis-week-2020](https://ucgis.github.io/uc-gis-week-2020/)
