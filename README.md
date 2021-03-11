@@ -1,3 +1,6 @@
-# UC GIS Week Website
+# UC GIS Week 2020 Website
 
-[UCGISweek.github.io](https://ucgisweek.github.io/2020VirtualConference/)
+- [UC GIS Week 2020](https://ucgis.github.io/uc-gis-week-2020/)
+
+## Legacy site
+- [Site launched at UCGisWeek/2020VirtualConference](https://github.com/UCGisWeek/2020VirtualConference)
